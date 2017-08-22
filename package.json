@@ -6,7 +6,8 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.11",
-    "react-simple-chatbot": "^0.2.4"
+    "react-simple-chatbot": "^0.2.4",
+    "styled-components": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
